@@ -1,6 +1,6 @@
 FROM tomcat:latest
 
-MAINTAINER Pedro Garcia
+MAINTAINER Pedro Garcia (pedrogarciafranco@hotmail.com)
 
 
 COPY admin.war /usr/local/tomcat/webapps/
